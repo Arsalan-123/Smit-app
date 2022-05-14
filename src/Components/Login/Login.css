@@ -1,0 +1,21 @@
+.login{
+    margin-top: 75px;
+    border: 1px;
+}
+.input{
+    margin-top: 15px;
+    width: 30%;
+    padding: 10px;
+    border-radius: 1px solid;
+    box-shadow: 4px;
+}
+.btn{
+    margin-top: 20px;
+    width: 15%;
+    padding: 8px;
+    font-size: large;
+    background-color:  #5c96d8f8;
+    border-radius: 1px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
